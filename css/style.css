@@ -24,4 +24,6 @@ body {
 h1 {
 	color: rgb(152,173,166);
 	font-size: 5em;
+	margin: 0;
+	font-family: 'Baskerville';
 }
