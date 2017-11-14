@@ -62,11 +62,11 @@ p {
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
+	margin-bottom: 0;
 }
 
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
-	margin-bottom: 0;
 }
 
 footer {
