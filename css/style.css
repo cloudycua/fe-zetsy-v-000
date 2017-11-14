@@ -66,6 +66,7 @@ p {
 
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
+	margin-bottom: 0;
 }
 
 footer {
