@@ -29,3 +29,7 @@ h1 {
 	font-family: 'Baskerville';
 	border-bottom: 1px solid rgb(152,173,166);
 }
+
+img {
+	border: 2px solid rbg(152,173,166);
+}
