@@ -73,5 +73,6 @@ footer {
 	text-align: right;
 	background: #fff;
 	font-size: 12px;
-	margin: 0 20px 20px;
+	margin: 0 20px;
+	padding-bottom: 20px;
 }
